@@ -10,3 +10,6 @@ git clone https://github.com/aa2006/Cash/
 Then, enter the Cash directory
 ```bash
 cd Cash
+```
+Compile the program using gcc for C and g++ for C++
+```bash
