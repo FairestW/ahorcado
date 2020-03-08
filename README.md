@@ -7,3 +7,5 @@ First, clone this repo
 ```bash
 git clone https://github.com/aa2006/Cash/
 ```
+Then, enter the Cash directory
+```bash
