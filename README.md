@@ -13,3 +13,4 @@ cd Cash
 ```
 Compile the program using gcc for C and g++ for C++
 ```bash
+gcc cash.c -o cash
