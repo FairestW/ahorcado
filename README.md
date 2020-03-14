@@ -18,3 +18,4 @@ gcc cash.c -o cash
 ```bash
 g++ cash.cpp -o cash
 ```
+Run the program
