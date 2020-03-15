@@ -22,3 +22,4 @@ Run the program
 ```bash
 ./cash
 ```
+Enter the amount of change
