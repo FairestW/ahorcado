@@ -19,3 +19,5 @@ gcc cash.c -o cash
 g++ cash.cpp -o cash
 ```
 Run the program
+```bash
+./cash
