@@ -24,3 +24,5 @@ Run the program
 ```
 Enter the amount of change
 ```bash
+Change owed:
+```
