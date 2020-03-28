@@ -26,3 +26,4 @@ Enter the amount of change
 ```bash
 Change owed:
 ```
+The program should then output the number of coins.
