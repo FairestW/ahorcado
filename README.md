@@ -27,3 +27,4 @@ Enter the amount of change
 Change owed:
 ```
 The program should then output the number of coins.
+If you want the program to output the coins specifically, just open the program and go to line 44 in the C program
