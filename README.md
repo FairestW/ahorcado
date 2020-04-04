@@ -31,3 +31,5 @@ If you want the program to output the coins specifically, just open the program 
 ```c
 printf("%d pennies\n%d nickels \n%d dimes \n%d quarters\n", pennies, nickels, dimes, quarters);
 ```
+And uncomment it, and comment the last line
+```c
