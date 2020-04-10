@@ -33,3 +33,5 @@ printf("%d pennies\n%d nickels \n%d dimes \n%d quarters\n", pennies, nickels, di
 ```
 And uncomment it, and comment the last line
 ```c
+printf("%d\n", sum);
+```
