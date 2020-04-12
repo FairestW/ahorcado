@@ -40,3 +40,4 @@ For C++, go to line 43 and uncomment it
 std::cout << pennies << ""\n" << nickels << "\n" << dimes << "\n" << quarters << "\n";
 ```
 And comment the last line
+```c
