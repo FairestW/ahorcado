@@ -41,3 +41,5 @@ std::cout << pennies << ""\n" << nickels << "\n" << dimes << "\n" << quarters <<
 ```
 And comment the last line
 ```c
+std::cout << sum << "\n";
+```
