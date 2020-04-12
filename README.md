@@ -36,3 +36,4 @@ And uncomment it, and comment the last line
 printf("%d\n", sum);
 ```
 For C++, go to line 43 and uncomment it
+```c
