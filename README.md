@@ -46,3 +46,4 @@ std::cout << sum << "\n";
 
 ## Contributions
 All contributions are welcome. First, clone this repo
+```bash
