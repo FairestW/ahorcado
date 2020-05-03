@@ -52,3 +52,4 @@ git clone https://github.com/aa2006/Cash/
 Then, navigate into the Coleman-Liau-Index directory
 ```bash
 cd Cash
+```
