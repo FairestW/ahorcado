@@ -53,3 +53,4 @@ Then, navigate into the Coleman-Liau-Index directory
 ```bash
 cd Cash
 ```
+Open up the cash.c/cash.cpp file, and unleash your creativity! If you want to merge your changes, just make a pull request.
