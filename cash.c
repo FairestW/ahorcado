@@ -9,3 +9,4 @@ int main(void)
     float dollars = 0;
     //Get user input
     do
+    {
