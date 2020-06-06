@@ -10,3 +10,4 @@ int main(void)
     //Get user input
     do
     {
+        printf("Change owed: ");
