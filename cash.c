@@ -12,3 +12,5 @@ int main(void)
     {
         printf("Change owed: ");
         scanf("%f", &dollars);
+    }
+    while (dollars < 0);
