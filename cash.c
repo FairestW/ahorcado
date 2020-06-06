@@ -11,3 +11,4 @@ int main(void)
     do
     {
         printf("Change owed: ");
+        scanf("%f", &dollars);
