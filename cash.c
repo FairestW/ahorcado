@@ -20,3 +20,4 @@ int main(void)
     while (cents > 0)
     {
         if (cents >= 25)
+        {
