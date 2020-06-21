@@ -23,3 +23,6 @@ int main(void)
         {
             quarters ++;
             cents -= 25;
+        }
+        else if (cents >= 10)
+        {
