@@ -22,3 +22,4 @@ int main(void)
         if (cents >= 25)
         {
             quarters ++;
+            cents -= 25;
