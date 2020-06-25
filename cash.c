@@ -28,3 +28,5 @@ int main(void)
         {
             dimes ++;
             cents -= 10;
+        }
+        else if (cents >= 5)
