@@ -30,3 +30,4 @@ int main(void)
             cents -= 10;
         }
         else if (cents >= 5)
+        {
