@@ -41,3 +41,4 @@ int main(void)
         }
     }
     int sum = pennies + nickels + dimes + quarters;
+    //prints coins indivisually
