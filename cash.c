@@ -45,3 +45,4 @@ int main(void)
     //printf("%d pennies\n%d nickels \n%d dimes \n%d quarters\n", pennies, nickels, dimes, quarters);
     //prints the sum of all the coins
     printf("%d\n", sum);
+}
