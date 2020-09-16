@@ -1,4 +1,4 @@
 #include <iostream>
 #include <math.h>
 
-int m
+int ma
