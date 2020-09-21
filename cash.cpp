@@ -1,4 +1,4 @@
 #include <iostream>
 #include <math.h>
 
-int main(v
+int main(vo
