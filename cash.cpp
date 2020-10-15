@@ -3,4 +3,4 @@
 
 int main(void)
 {
-    //Vari
+    //Variab
