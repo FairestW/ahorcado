@@ -3,4 +3,4 @@
 
 int main(void)
 {
-    //Variables for co
+    //Variables for coin
