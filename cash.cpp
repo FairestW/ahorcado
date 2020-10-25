@@ -3,4 +3,4 @@
 
 int main(void)
 {
-    //Variables fo
+    //Variables for c
