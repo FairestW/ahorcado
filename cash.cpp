@@ -4,4 +4,4 @@
 int main(void)
 {
     //Variables for coins
-    int quarters = 0, dimes = 0
+    int quarters = 0, dimes = 0,
