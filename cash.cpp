@@ -9,4 +9,4 @@ int main(void)
     //Get user input
     do
     {
-        std::cout << "Chang
+        std::cout << "Change
