@@ -10,4 +10,4 @@ int main(void)
     do
     {
         std::cout << "Change Owed: ";
-        std:cin >> d
+        std:cin >> do
