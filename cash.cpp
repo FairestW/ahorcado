@@ -12,4 +12,4 @@ int main(void)
         std::cout << "Change Owed: ";
         std:cin >> dollars;
     }
-    while (dollars < 0)
+    while (dollars < 0);
