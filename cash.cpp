@@ -13,4 +13,4 @@ int main(void)
         std:cin >> dollars;
     }
     while (dollars < 0);
-   
+    
