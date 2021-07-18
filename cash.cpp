@@ -13,4 +13,4 @@ int main(void)
         std:cin >> dollars;
     }
     while (dollars < 0);
-    //Convert to 
+    //Convert to c
