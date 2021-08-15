@@ -14,4 +14,4 @@ int main(void)
     }
     while (dollars < 0);
     //Convert to cents
-    int cent
+    int cents
