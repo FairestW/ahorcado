@@ -14,4 +14,4 @@ int main(void)
     }
     while (dollars < 0);
     //Convert to cents
-    int cents = round(d
+    int cents = round(dol
