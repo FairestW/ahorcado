@@ -16,4 +16,4 @@ int main(void)
     //Convert to cents
     int cents = round(dollars * 100);
     //Computes num of coins
-   
+    
