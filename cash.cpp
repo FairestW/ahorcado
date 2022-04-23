@@ -22,4 +22,4 @@ int main(void)
         {
             quarters ++;
             cents -= 25;
-      
+        }
