@@ -23,4 +23,4 @@ int main(void)
             quarters ++;
             cents -= 25;
         }
-        else if (cent
+        else if (cents
