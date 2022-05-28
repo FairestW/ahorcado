@@ -24,4 +24,4 @@ int main(void)
             cents -= 25;
         }
         else if (cents >= 10)
-      
+       
