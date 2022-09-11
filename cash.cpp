@@ -28,4 +28,4 @@ int main(void)
             dimes ++;
             cents -= 10;
         }
-        else if (ce
+        else if (cents 
