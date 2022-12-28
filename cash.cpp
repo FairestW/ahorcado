@@ -33,4 +33,4 @@ int main(void)
             nickels ++;
             cents -= 5;
         }
-        else if (cent
+        else if (cents
