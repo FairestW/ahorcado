@@ -37,4 +37,4 @@ int main(void)
         {
             pennies ++;
             cents -= 1;
-   
+    
