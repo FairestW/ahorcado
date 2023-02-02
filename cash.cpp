@@ -39,4 +39,4 @@ int main(void)
             cents -= 1;
         }
     }
-    int su
+    int sum
