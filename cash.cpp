@@ -39,4 +39,4 @@ int main(void)
             cents -= 1;
         }
     }
-    int sum = pennies + nickels + dimes
+    int sum = pennies + nickels + dimes 
