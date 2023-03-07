@@ -40,4 +40,4 @@ int main(void)
         }
     }
     int sum = pennies + nickels + dimes + quarters;
-    //std::cout << pennies << ""\n" << nickels << "\n" << dimes << "\n" 
+    //std::cout << pennies << ""\n" << nickels << "\n" << dimes << "\n" <<
