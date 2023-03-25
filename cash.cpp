@@ -41,4 +41,4 @@ int main(void)
     }
     int sum = pennies + nickels + dimes + quarters;
     //std::cout << pennies << ""\n" << nickels << "\n" << dimes << "\n" << quarters << "\n";
-    //prints the sum of all the c
+    //prints the sum of all the co
